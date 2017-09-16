@@ -1,4 +1,4 @@
-package com.manish.javadev.app.dao;
+package com.manish.javadev.repository;
 
 import java.util.List;
 

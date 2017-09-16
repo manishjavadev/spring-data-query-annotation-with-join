@@ -10,9 +10,9 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.manish.javadev.app.dao.UserRepository;
 import com.manish.javadev.app.entities.RoleEntity;
 import com.manish.javadev.app.entities.UserEntity;
+import com.manish.javadev.repository.UserRepository;
 
 @SpringBootApplication
 public class SpringDataApplicationDemo implements CommandLineRunner {
